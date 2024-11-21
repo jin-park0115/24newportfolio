@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Trip-Talk",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["React", "TypeScript", "Axios", "Redux", "Styled-Components"],
+    "period": "2023.09.13 - 2023.10.26",
+    "team": "프론트엔드 3명 백엔드 3명",
+    "link": [
+      "https://github.com/triptalk-4/triptalk-frontend",
+      "https://triptalk.vercel.app/"
+    ],
+    "desciription": "국내여행을 즐기는 사람들의 추억과 경험을 공유하는 웹사이트.",
+    "did": "로그인로직, 회원가입로직, 일정등록로직 백엔드와 연동, ui, 반응형 작업 기여, 팀원들과의 협업",
+    "contribution": "5/4",
+    "technology": [
+      "React",
+      "TypeScipt",
+      "Redux",
+      "Figma",
+      "Notion",
+      "Vercel",
+      "Github",
+      "Styled-Components"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Film",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["React", "Axios", "Firebase", "Styled-Components", "Redux"],
+    "period": "2023.07.31 - 2023.08.25",
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/film",
+      "https://film-flame.vercel.app/"
+    ],
+    "desciription": "TMDBAPI를 사용한 영화 정보 웹사이트 입니다.",
+    "did": "TMDBAPI 로 검색, 인기순, 페이지네이션, Firebase를 이용한 로그인과 회원가입 등 모든것 기여함.",
+    "contribution": "5/5",
+    "technology": ["React", "Firebase", "Redux", "Figma", "Styled-Components"]
+  },
+  {
+    "id": 3,
+    "name": "Cook-Recipe",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["React", "Axios", "Firebase", "Styled-Components", "ContextAPI"],
+    "period": "2024.10.25 - 2024.11.02",
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/cook-recipe",
+      "https://melodic-halva-a4cbb0.netlify.app/"
+    ],
+    "desciription": "식품의약품안전처 공공데이터를 활용한 요리 레시피를 공유하는 사이트입니다.",
+    "did": "firebase를 이용한 로그인, 회원가입,CRUD, 식약처API사용 ContextAPI를 이용한 데이터 관리를 기여함.",
+    "contribution": "5/5",
+    "technology": [
+      "React",
+      "ContextAPI",
+      "Styled-Components",
+      "Firebase",
+      "Figma",
+      "Github"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "로또 자동번호 생성기",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["React", "Styled-Components"],
+    "period": null,
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/Lotto",
+      "https://earnest-narwhal-e204a3.netlify.app/"
+    ],
+    "desciription": "로또 번호를 매장 자동이 싫은 사람들을 위한 웹사이트.",
+    "did": "Random()를 이용, 중복숫자 나오지 않게함",
+    "contribution": "5/5",
+    "technology": ["React", "Styled-Components"]
+  },
+  {
+    "id": 5,
+    "name": "TyphoGraphy",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["HTML5", "CSS3"],
+    "period": null,
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/TyphoGraphy",
+      "https://jin-park0115.github.io/TyphoGraphy/"
+    ],
+    "desciription": "텍스트에 네온사인 들어오게 하는 사이트.",
+    "did": "css를 이용해서 텍스트 호버시 네온이 비춰지게 만듬.",
+    "contribution": "5/5",
+    "technology": ["HTML5", "CSS3"]
+  },
+  {
+    "id": 6,
+    "name": "Image_Slider",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["HTML5", "CSS3"],
+    "period": null,
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/NewJeans_Slider",
+      "https://jin-park0115.github.io/NewJeans_Slider/"
+    ],
+    "desciription": "뉴진스를 좋아하는 개발자의 슬라이더 hover효과 사이트.",
+    "did": "css를 이용해서 hover효과를 줌. 박스개념 잡기.",
+    "contribution": "5/5",
+    "technology": ["HTML5", "CSS3"]
+  },
+  {
+    "id": 7,
+    "name": "Card-fliping",
+    "image": "./assets/트립토크.jpeg",
+    "skill": ["React"],
+    "period": null,
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/card-fliping/tree/master",
+      "https://cardflipinggame.netlify.app/"
+    ],
+    "desciription": "Card짝 맞추기 게임을 할 수 있는 웹사이트.",
+    "did": "josn과 useState, useEffect를 이용해 카드 짝 맞추기를 할 수 있음.",
+    "contribution": "5/5",
+    "technology": ["React"]
+  }
+]
