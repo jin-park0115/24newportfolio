@@ -20,7 +20,6 @@ const ExperiencePage = () => {
                   <span className="font-jejumyeongjo mobileS:text-[12px] talbet:text-[14px] laptop:text-[16px] laptopL:text-[18px] desktop:text-[20px]">
                     컴퓨터과학과
                   </span>
-                  <p>?</p>
                 </div>
                 <div>
                   <p className="font-jejugothic text-[14px] mobileS:text-[16px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
