@@ -15,10 +15,16 @@ const MainPage = () => {
           </Link>
           <a
             href={`mailto:${email}`}
-            className="text-[30px] text-white mt-[24px] font-light font-jejumyeongjo hover:text-stone-900 transition ease-in-out delay-150 mobileM:text-[16px] mobileL:text-[20px] tablet:text-[24px] laptop: text-[28px] desktop:text-[34px]"
+            className="text-[30px] text-white mt-[16px] font-light font-jejumyeongjo hover:text-stone-900 transition ease-in-out delay-150 mobileM:text-[16px] mobileL:text-[20px] tablet:text-[24px] mt-[24px] laptop: text-[28px] desktop:text-[34px]"
           >
-            이메일
+            Email
           </a>
+          <Link
+            to="https://oval-industry-026.notion.site/2bc5f6d2e76144238d2be0747421af97"
+            className="text-[28px] text-white font-light font-jejumyeongjo hover:text-stone-900 transition ease-in-out delay-150 mobileM:text-[16px] mobileL:text-[20px] tablet:text-[24px] mt-[24px] laptop: text-[28px] desktop:text-[34px] mt-[24px]"
+          >
+            Notion
+          </Link>
         </div>
         <Left>
           <p className="font-jejumyeongjo text-[1rem] mobileM:w-[80px] mobileL:w-[100px] text-[0.7rem]  tablet:w-[120px] text-[0.8rem] desktop:text-[1.1rem] ">

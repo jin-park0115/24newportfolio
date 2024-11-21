@@ -31,7 +31,7 @@ const ProjectsPage = () => {
                 name={item.name}
                 team={item.team}
                 period={item.period}
-                des={item.desciription}
+                des={item.description}
                 skill={item.skill}
                 links={item.link}
                 did={item.did}

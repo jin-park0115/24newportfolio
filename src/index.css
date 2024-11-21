@@ -1,7 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 @import url("//fonts.googleapis.com/earlyaccess/jejumyeongjo.css");
 @import url("//fonts.googleapis.com/earlyaccess/jejugothic.css");
 @font-face {
@@ -11,6 +7,11 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0px;
   padding: 0px;
