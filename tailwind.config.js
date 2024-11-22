@@ -7,6 +7,7 @@ export default {
         jejumyeongjo: ["Jeju Myeongjo", "serif"],
         jejugothic: ["JejuGothic", "sans-serif"],
         leeseoyun: ["LeeSeoyun", "sans-serif"],
+        recipekorea: ["Recipekorea", "sans-serif"],
       },
       colors: {
         primary: "#208E6b",

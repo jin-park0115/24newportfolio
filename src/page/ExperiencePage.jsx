@@ -14,35 +14,35 @@ const ExperiencePage = () => {
             <div>
               <div className="flex flex-col pb-[24px] gap-[20px] mobileS:gap-[4px] tablet:gap-[14px]">
                 <div>
-                  <p className="font-jejugothic text-[14px] mobileS:text-[16px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
+                  <p className="font-recipekorea text-[14px] mobileS:text-[14px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
                     2024.03 한국방송통신대학교 재학
                   </p>
                   <span className="font-jejumyeongjo mobileS:text-[12px] talbet:text-[14px] laptop:text-[16px] laptopL:text-[18px] desktop:text-[20px]">
-                    컴퓨터과학과
+                    - 컴퓨터과학과
                   </span>
                 </div>
                 <div>
-                  <p className="font-jejugothic text-[14px] mobileS:text-[16px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
+                  <p className="font-recipekorea text-[14px] mobileS:text-[14px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
                     2022.02 서영대학교 졸업
                   </p>
                   <span className="font-jejumyeongjo mobileS:text-[12px] talbet:text-[14px] laptop:text-[16px] laptopL:text-[18px] desktop:text-[20px]">
-                    호텔외식조기학과
+                    - 호텔외식조리학과
                   </span>
                 </div>
                 <div>
-                  <p className="font-jejugothic text-[14px] mobileS:text-[16px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
+                  <p className="font-recipekorea text-[14px] mobileS:text-[14px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
                     2023.11.08 제로베이스 프론트엔드 스쿨 수강
                   </p>
                   <span className="font-jejumyeongjo mobileS:text-[12px] talbet:text-[14px] laptop:[16px] laptopL:text-[18px] desktop:text-[20px]">
-                    2023.04.01 ~ 11.08까지
+                    - 2023.04.01 ~ 11.08까지
                   </span>
                 </div>
                 <div>
-                  <p className="font-jejugothic text-[14px] mobileS:text-[16px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
+                  <p className="font-recipekorea text-[14px] mobileS:text-[14px] tablet:text-[20px] laptop:text-[22px] laptopL:text-[24px]">
                     2023.02 SBS아카데미컴퓨터아트학원
                   </p>
                   <span className="font-jejumyeongjo mobileS:text-[12px] talbet:text-[14px] laptop:[16px] laptopL:text-[18px] desktop:text-[20px]">
-                    4개월간 웹퍼블리싱
+                    - 4개월간 웹퍼블리싱
                   </span>
                 </div>
               </div>

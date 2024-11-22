@@ -7,6 +7,10 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: "Recipekorea";
+  src: url(./font/Recipekorea레코체FONT.ttf);
+}
 
 @tailwind base;
 @tailwind components;
