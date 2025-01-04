@@ -8,7 +8,7 @@ import SkillsPage from "./page/SkillsPage";
 
 function App() {
   return (
-    <>
+    <div>
       <MainPage />
       <IntroPage />
       <ExperiencePage />
@@ -16,7 +16,7 @@ function App() {
       <MyProjectPage />
       <ProjectsPage />
       <ContactPage />
-    </>
+    </div>
   );
 }
 
