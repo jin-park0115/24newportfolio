@@ -2,7 +2,6 @@
   {
     "id": 1,
     "name": "Trip-Talk",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["React", "TypeScript", "Axios", "Redux", "Styled-Components"],
     "period": "2023.09.13 - 2023.10.26",
     "team": "프론트엔드 3명 백엔드 3명",
@@ -27,7 +26,6 @@
   {
     "id": 2,
     "name": "Film",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["React", "Axios", "Firebase", "Styled-Components", "Redux"],
     "period": "2023.07.31 - 2023.08.25",
     "team": "프론트엔드 1명",
@@ -43,7 +41,6 @@
   {
     "id": 3,
     "name": "Cook-Recipe",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["React", "Axios", "Firebase", "Styled-Components", "ContextAPI"],
     "period": "2024.10.25 - 2024.11.02",
     "team": "프론트엔드 1명",
@@ -66,7 +63,6 @@
   {
     "id": 4,
     "name": "로또 자동번호 생성기",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["React", "Styled-Components"],
     "period": null,
     "team": "프론트엔드 1명",
@@ -74,7 +70,7 @@
       "https://github.com/jin-park0115/Lotto",
       "https://earnest-narwhal-e204a3.netlify.app/"
     ],
-    "description": "로또 번호를 매장 자동이 싫은 사람들을 위한 웹사이트.",
+    "description": "로또 번호 매장의 자동이 싫은 사람들을 위한 웹사이트.",
     "did": "Random()를 이용, 중복숫자 나오지 않게함",
     "contribution": "5/5",
     "technology": ["React", "Styled-Components"]
@@ -82,7 +78,6 @@
   {
     "id": 5,
     "name": "TyphoGraphy",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["HTML5", "CSS3"],
     "period": null,
     "team": "프론트엔드 1명",
@@ -98,7 +93,6 @@
   {
     "id": 6,
     "name": "Image_Slider",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["HTML5", "CSS3"],
     "period": null,
     "team": "프론트엔드 1명",
@@ -114,7 +108,6 @@
   {
     "id": 7,
     "name": "Card-fliping",
-    "image": "./assets/트립토크.jpeg",
     "skill": ["React"],
     "period": null,
     "team": "프론트엔드 1명",
@@ -123,8 +116,23 @@
       "https://cardflipinggame.netlify.app/"
     ],
     "description": "Card짝 맞추기 게임을 할 수 있는 웹사이트.",
-    "did": "josn과 useState, useEffect를 이용해 카드 짝 맞추기를 할 수 있음.",
+    "did": "json과 useState, useEffect를 이용해 카드 짝 맞추기를 할 수 있음.",
     "contribution": "5/5",
     "technology": ["React"]
+  },
+  {
+    "id": 8,
+    "name": "Word-Checkd",
+    "skill": ["React", "Styled-Components"],
+    "period": null,
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/Word-Check",
+      "https://679b686cd111b521983d79d7--lighthearted-alfajores-d74f62.netlify.app"
+    ],
+    "description": "기도, 말씀, 큐티 체크해서 제출 하는 앱",
+    "did": "checkBox와 submit",
+    "contribution": "5/5",
+    "technology": ["React", "Styled-Components"]
   }
 ]

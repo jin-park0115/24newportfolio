@@ -7,6 +7,7 @@ import lottoImg from "../assets/lotto.png";
 import typhoImg from "../assets/typhography.png";
 import newjeansImg from "../assets/뉴진스.png";
 import cardImg from "../assets/CardFilp.png";
+import checkdImg from "../assets/말씀체크.png";
 
 import datas from "../data.json";
 import { Hr } from "./MainPage";
@@ -19,6 +20,7 @@ const ProjectsPage = () => {
     typhoImg,
     newjeansImg,
     cardImg,
+    checkdImg,
   ];
   return (
     <>

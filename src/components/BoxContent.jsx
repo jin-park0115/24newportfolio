@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
+import { keyframes } from "styled-components";
 import Modal from "./Modal";
 
 const BoxContent = ({
@@ -23,7 +24,7 @@ const BoxContent = ({
   return (
     <>
       <div className="bg-slate-100  rounded-[15px] ">
-        <div className="p-[15px] flex flex-col gap-[5px] pb-[24px]">
+        <div className="p-[15px] flex flex-col gap-[5px] pb-[24px] mobileS:h-[450px] laptopL:h-[530px] desktop:h-[650px]">
           <div className="flex items-center">
             <p className="border border-primary p-[10px] bg-primary rounded-[10px] text-stone-900 font-jejumyeongjo text-[12px] tablet:text-[12px] laptop:text-[14px] laptopL:text-[16px] p-[6px] desktop:text-[22px]">
               {name}
@@ -41,7 +42,7 @@ const BoxContent = ({
             </p>
           </div>
           <div className="flex flex-col items-center">
-            <div className="w-[70%] hover:blur-sm transition ease-in-out delay-200 cursor-pointer laptop:w-[65%] desktop:w-[70%]">
+            <div className="w-[70%] h-[290px]  hover:blur-sm transition ease-in-out delay-200 cursor-pointer laptop:w-[65%] desktop:w-[70%] mobileL: h-[auto]">
               <img src={img} alt="썸네일" />
             </div>
           </div>
@@ -102,6 +103,22 @@ const Line = styled.div`
   );
 `;
 
+const gradientAnimation = keyframes`
+  0% { background-position: 0% 50% }
+  50%{ background-position: 100% 50% }
+  100%{ background-position: 0% 50% }
+`;
+
 const Read = styled.div`
   display: flex;
+
+  div {
+    background: linear-gradient(-45deg, #6366f1, #a5b4fc, #c7d2fe, #818cf8);
+    background-size: 300% 300%;
+    animation: ${gradientAnimation} 3s ease infinite;
+    transition: transform 0.2s ease-in-out;
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
 `;
