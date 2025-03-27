@@ -78,7 +78,7 @@ const SkillsPage = () => {
                 </div>
               </div>
 
-              <div className="flex gap-[15px] items-center mobileS:flex-col mobileS:items-start mobileS:gap-[5px]">
+              {/* <div className="flex gap-[15px] items-center mobileS:flex-col mobileS:items-start mobileS:gap-[5px]">
                 <div className="w-[120px] mobileL:w-[80px] tablet:w-[110px] desktop:w-[160px]">
                   <p className="text-[0.9rem] font-bold mobileL:text-[1rem] tablet:text-[1.2rem] laptop:text-[1.6rem] desktop:text-[1.7rem]">
                     BackEnd
@@ -89,7 +89,7 @@ const SkillsPage = () => {
                     FireBase
                   </p>
                 </div>
-              </div>
+              </div> */}
 
               <div className="flex gap-[15px] items-center mobileS:flex-col mobileS:items-start mobileS:gap-[5px]">
                 <div className="w-[120px] tablet:w-[110px] desktop:w-[160px]">

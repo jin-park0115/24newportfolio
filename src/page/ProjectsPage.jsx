@@ -13,14 +13,14 @@ import datas from "../data.json";
 import { Hr } from "./MainPage";
 const ProjectsPage = () => {
   const Imgs = [
+    cookImg,
     tripImg,
     filmImg,
-    cookImg,
     lottoImg,
+    checkdImg,
     typhoImg,
     newjeansImg,
     cardImg,
-    checkdImg,
   ];
   return (
     <>

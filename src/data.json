@@ -1,6 +1,28 @@
 [
   {
     "id": 1,
+    "name": "Cook-Recipe",
+    "skill": ["React", "Axios", "Firebase", "Styled-Components", "ContextAPI"],
+    "period": "2024.10.25 - 2024.11.02",
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/cook-recipe",
+      "https://melodic-halva-a4cbb0.netlify.app/"
+    ],
+    "description": "식품의약품안전처 공공데이터를 활용한 요리 레시피를 공유하는 사이트입니다.",
+    "did": "firebase를 이용한 로그인, 회원가입,CRUD, 식약처API사용 ContextAPI를 이용한 데이터 관리를 기여함.",
+    "contribution": "5/5",
+    "technology": [
+      "React",
+      "ContextAPI",
+      "Styled-Components",
+      "Firebase",
+      "Figma",
+      "Github"
+    ]
+  },
+  {
+    "id": 2,
     "name": "Trip-Talk",
     "skill": ["React", "TypeScript", "Axios", "Redux", "Styled-Components"],
     "period": "2023.09.13 - 2023.10.26",
@@ -24,7 +46,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Film",
     "skill": ["React", "Axios", "Firebase", "Styled-Components", "Redux"],
     "period": "2023.07.31 - 2023.08.25",
@@ -37,28 +59,6 @@
     "did": "TMDBAPI 로 검색, 인기순, 페이지네이션, Firebase를 이용한 로그인과 회원가입 등 모든것 기여함.",
     "contribution": "5/5",
     "technology": ["React", "Firebase", "Redux", "Figma", "Styled-Components"]
-  },
-  {
-    "id": 3,
-    "name": "Cook-Recipe",
-    "skill": ["React", "Axios", "Firebase", "Styled-Components", "ContextAPI"],
-    "period": "2024.10.25 - 2024.11.02",
-    "team": "프론트엔드 1명",
-    "link": [
-      "https://github.com/jin-park0115/cook-recipe",
-      "https://melodic-halva-a4cbb0.netlify.app/"
-    ],
-    "description": "식품의약품안전처 공공데이터를 활용한 요리 레시피를 공유하는 사이트입니다.",
-    "did": "firebase를 이용한 로그인, 회원가입,CRUD, 식약처API사용 ContextAPI를 이용한 데이터 관리를 기여함.",
-    "contribution": "5/5",
-    "technology": [
-      "React",
-      "ContextAPI",
-      "Styled-Components",
-      "Firebase",
-      "Figma",
-      "Github"
-    ]
   },
   {
     "id": 4,
@@ -77,6 +77,21 @@
   },
   {
     "id": 5,
+    "name": "Word-Checkd",
+    "skill": ["React", "Styled-Components"],
+    "period": null,
+    "team": "프론트엔드 1명",
+    "link": [
+      "https://github.com/jin-park0115/Word-Check",
+      "https://679b686cd111b521983d79d7--lighthearted-alfajores-d74f62.netlify.app"
+    ],
+    "description": "기도, 말씀, 큐티 체크해서 제출 하는 앱",
+    "did": "checkBox와 submit",
+    "contribution": "5/5",
+    "technology": ["React", "Styled-Components"]
+  },
+  {
+    "id": 6,
     "name": "TyphoGraphy",
     "skill": ["HTML5", "CSS3"],
     "period": null,
@@ -91,7 +106,7 @@
     "technology": ["HTML5", "CSS3"]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Image_Slider",
     "skill": ["HTML5", "CSS3"],
     "period": null,
@@ -106,7 +121,7 @@
     "technology": ["HTML5", "CSS3"]
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Card-fliping",
     "skill": ["React"],
     "period": null,
@@ -119,20 +134,5 @@
     "did": "json과 useState, useEffect를 이용해 카드 짝 맞추기를 할 수 있음.",
     "contribution": "5/5",
     "technology": ["React"]
-  },
-  {
-    "id": 8,
-    "name": "Word-Checkd",
-    "skill": ["React", "Styled-Components"],
-    "period": null,
-    "team": "프론트엔드 1명",
-    "link": [
-      "https://github.com/jin-park0115/Word-Check",
-      "https://679b686cd111b521983d79d7--lighthearted-alfajores-d74f62.netlify.app"
-    ],
-    "description": "기도, 말씀, 큐티 체크해서 제출 하는 앱",
-    "did": "checkBox와 submit",
-    "contribution": "5/5",
-    "technology": ["React", "Styled-Components"]
   }
 ]
