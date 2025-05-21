@@ -23,10 +23,10 @@ const BoxContent = ({
 
   return (
     <>
-      <div className="bg-slate-100  rounded-[15px] ">
+      <div className="bg-[#c4c7cc]  rounded-[15px] ">
         <div className="p-[15px] flex flex-col gap-[5px] pb-[24px] mobileS:h-[450px] laptopL:h-[530px] desktop:h-[650px]">
           <div className="flex items-center">
-            <p className="border border-primary p-[10px] bg-primary rounded-[10px] text-stone-900 font-jejumyeongjo text-[12px] tablet:text-[12px] laptop:text-[14px] laptopL:text-[16px] p-[6px] desktop:text-[22px]">
+            <p className="border border-[#fff] p-[10px] bg-[#fff] rounded-[10px] text-stone-900 font-jejumyeongjo text-[12px] tablet:text-[12px] laptop:text-[14px] laptopL:text-[16px] p-[6px] desktop:text-[22px]">
               {name}
             </p>
           </div>

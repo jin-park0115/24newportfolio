@@ -3,7 +3,7 @@ import { Hr } from "./MainPage";
 const SkillsPage = () => {
   return (
     <>
-      <div className="flex h-screen bg-primary">
+      <div className="flex h-screen">
         <div className="w-[90%] border-r-[1px] border-r-black pl-[24px] pt-[34px] pb-[20px]">
           <div className="h-[100%] flex flex-col justify-between">
             <div>

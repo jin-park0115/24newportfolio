@@ -24,7 +24,7 @@ const ProjectsPage = () => {
   ];
   return (
     <>
-      <Container className="bg-primary pt-[10px] pb-[10px]tablet:pt-[30px] pb-[30px]">
+      <Container className="pt-[10px] pb-[10px]tablet:pt-[30px] pb-[30px]">
         <Wrap className="w-[80%]">
           {datas.map((item, index) => (
             <Box key={item.id}>
